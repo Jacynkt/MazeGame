@@ -22,4 +22,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2024-10-27T
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2024-10-27T10:33:52.108Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2024-10-27T10:34:41.862Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-10-27T10:34:46.497Z
-MyProject2.exe	2024-12-16T19:57:45.913Z
+MyProject2.exe	2024-12-17T12:53:04.237Z
